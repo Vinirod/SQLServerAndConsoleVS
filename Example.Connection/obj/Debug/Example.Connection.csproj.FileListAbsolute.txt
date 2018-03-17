@@ -1,0 +1,7 @@
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\bin\Debug\Example.Connection.exe.config
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\bin\Debug\Example.Connection.exe
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\bin\Debug\Example.Connection.pdb
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\obj\Debug\Example.Connection.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\obj\Debug\Example.Connection.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\obj\Debug\Example.Connection.exe
+C:\Users\rodri\Source\Repos\ExampleASPWithSQLServer\Example.Connection\obj\Debug\Example.Connection.pdb
